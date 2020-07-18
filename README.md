@@ -12,7 +12,7 @@ Simple code in python to detect Drowsiness and Yawn and alert the user using Dli
 6. numpy
 7. argparse
 
-## Setups
+## setup
 
 Change the threshold values according to your need
 ```
@@ -21,6 +21,6 @@ EYE_AR_CONSEC_FRAMES = 30
 YAWN_THRESH = 10`	//change this according to the distance from the camera
 ```
 
-
-
+## required
+shape_predictor_68_face_landmarks.dat
 
